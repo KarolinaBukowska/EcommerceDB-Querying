@@ -22,12 +22,12 @@ Utilized constraints such as PRIMARY KEY and FOREIGN KEY to maintain data integr
 
 ## Files Overview 📁
 
-### Create_Tables
+### Creating Tables
 
 * Creation of the Database
 * Creation of the tables and establishing relation between them through FOREIGN KEY
 
-### Populate_With_Data
+### Populating Tables
 
 * Populating database with the appropriate data
 * Altering a table by adding additional column
