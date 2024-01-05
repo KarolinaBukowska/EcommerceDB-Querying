@@ -20,6 +20,8 @@ Implemented SQL INSERT queries to add new data and DELETE queries for efficient 
 **Constraints:**
 Utilized constraints such as PRIMARY KEY and FOREIGN KEY to maintain data integrity and enforce relationships between tables.
 
+**Database Management System:** PostgreSQL
+
 ## Files Overview 📁
 
 ### Creating Tables
